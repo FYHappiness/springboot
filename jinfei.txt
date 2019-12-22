@@ -1,2 +1,4 @@
 vi test
 hello world!
+commit test
+
